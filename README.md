@@ -16,7 +16,7 @@ Ofcourse recipes in chef, puppet, ansible, habitat can be created as well.
 
 # Install Rio OS using Autorio
 
-The install instructions require the [Rio/OS private registry](https://registry.rioos.xyz) SSH RSA public CA certicate for accessing the software to be installed.  
+The install instructions require the [Rio/OS private registry](https://registry.rioos.xyz) **not active - archived** SSH RSA public CA certicate for accessing the software to be installed.  
 
 Contact [sales](nkishore@megam.io) for requesting access to the private registry.
 
