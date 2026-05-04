@@ -1,6 +1,6 @@
 # autorio
 
-Automated deployment of [Rio/OS](http://rio.digital) using [SSHKit](https://github.com/capistrano/sshkit).
+Automated deployment of [Rio/OS](https://megam.io) using [SSHKit](https://github.com/capistrano/sshkit).
 
 
 This is an opinionated tool like [ceph-deploy](https://github.com/ceph/ceph-deploy) and not a general purpose devOps tool like [chef](https://chef.io), [Habitat](https://habitat.sh), [Ansible](https://ansible).
@@ -18,7 +18,7 @@ Ofcourse recipes in chef, puppet, ansible, habitat can be created as well.
 
 The install instructions require the [Rio/OS private registry](https://registry.rioos.xyz) SSH RSA public CA certicate for accessing the software to be installed.  
 
-Contact [sales@rio.company](sales@rio.company) for requesting access to the private registry.
+Contact [sales](nkishore@megam.io) for requesting access to the private registry.
 
 Download the attachment `rioos_registry_ca.crt` from your email into `$HOME/Downloads`
 
